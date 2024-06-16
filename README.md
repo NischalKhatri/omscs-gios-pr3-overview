@@ -41,8 +41,8 @@ Extended the proxy server to include a cache server using shared memory for data
 - **Synchronization with Semaphores**: Ensures data integrity and coordination using semaphores.
 
 ## Usage
-- **Proxy Server: Acts as an intermediary to handle client requests and forward them to the actual server.
-- **Proxy-Cache Server: Enhances the proxy server by caching frequently accessed content for faster retrieval.
+- **Proxy Server**: Acts as an intermediary to handle client requests and forward them to the actual server.
+- **Proxy-Cache Server**: Enhances the proxy server by caching frequently accessed content for faster retrieval.
 
 ## Original Repository
 - The original project repository is private since this project was built as part of a class, but I am happy to share it for interview purposes. You can find the original project [GIOS-PR3](https://github.com/NischalKhatri/omscs-gios-pr3). Please reach out to me via email if you would like to access the full repository.
